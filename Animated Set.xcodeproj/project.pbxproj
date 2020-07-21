@@ -68,10 +68,10 @@
 			children = (
 				B467F9BB24C5BFC700C6FC10 /* GamePlayViewController.swift */,
 				B467F9B924C5BFBF00C6FC10 /* CardContainer.swift */,
+				B467F9C324C5BFDE00C6FC10 /* SetShapeView.swift */,
 				B467F9C524C5C13B00C6FC10 /* Main.storyboard */,
 				B467F9BD24C5BFCD00C6FC10 /* Grid.swift */,
 				B467F9C124C5BFDA00C6FC10 /* SetCardDeck.swift */,
-				B467F9C324C5BFDE00C6FC10 /* SetShapeView.swift */,
 				B467F9BF24C5BFD500C6FC10 /* Set.swift */,
 				B467F9AD24C5BEF100C6FC10 /* Assets.xcassets */,
 				B467F9B224C5BEF100C6FC10 /* Info.plist */,
